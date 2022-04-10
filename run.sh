@@ -5,6 +5,6 @@ replace() {
 }
 
 echo 'paste Github script URL like https://github.com/feegloo/run-github-script/blob/main/test.sh'
-read URL
+read -s URL
 RAW_URL=$(replace $URL)
 curl -s $RAW_URL | sh
