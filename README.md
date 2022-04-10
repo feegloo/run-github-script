@@ -1,4 +1,4 @@
-# run-github-sh
+# run-github-script
 
 executing run.sh
 
@@ -15,3 +15,6 @@ run.sh
 - `cd reponame`
 - `chmod +x script.sh`
 - `./script.sh` or `sh script.sh`
+
+
+potentially executing .js with `node` (if available)
