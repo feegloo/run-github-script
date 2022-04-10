@@ -3,7 +3,7 @@
 executing run.sh
 
 ```
-curl -s https://raw.githubusercontent.com/feegloo/run-github-sh/main/run.sh | sh
+sh <(curl -s https://raw.githubusercontent.com/feegloo/run-github-sh/main/run.sh)
 ```
 
 - asks in terminal to paste github .sh
