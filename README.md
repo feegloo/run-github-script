@@ -7,7 +7,7 @@ sh <(curl -s https://raw.githubusercontent.com/feegloo/run-github-sh/main/run.sh
 ```
 
 - asks in terminal to paste github .sh
-- for example `https://github.com/username/reporistory/blob/main/script.sh`
+- for example `https://github.com/feegloo/run-github-script/blob/main/test.sh`
 - enter runs script
 
 run.sh
